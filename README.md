@@ -121,15 +121,15 @@ Caso não haja movimentações, mostra uma mensagem informativa.
 ### Quer testar esse projeto? 
 1. Faz o clone o repositório aí:
 ```
-git clone https://github.com/willdegl4n/DIO-Estudo-Python.git
+git clone https://github.com/willdegl4n/SistemaBancario.git
 ```
 2. Acessa a pasta:
 ```
-cd sistema_bancario
+cd SistemaBancario
 ```
 3. Executa o arquivo:
 ```
-python sistema_bancario.py
+python SistemaBancario.py
 ```
 
 ---
