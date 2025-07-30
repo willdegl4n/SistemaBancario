@@ -67,7 +67,7 @@ O menu é apresentado de forma organizada, com uso de tabulação (`\t`) para al
     --------------------------------------
     |  [q]  Sair                         |
     |                                    |
-    ======== by Willdeglan - v3.0 ========
+    ===== by Willdeglan / SQL Dicas ======
 ```
 
 ---
