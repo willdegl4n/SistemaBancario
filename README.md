@@ -8,7 +8,6 @@ Criado com fins didáticos, este sistema é ideal para quem está iniciando no m
 - Laços de repetição (`while True`)
 - Declaração e organização de funções
 - Manipulação de datas com `datetime`
-- Tratamento de erros com `try/except`
 - Uso de listas e dicionários para representar dados de clientes e contas
 - Argumentos posicionais (`/`) e nomeados (`*`) para tornar as funções mais seguras e legíveis
 - Formatação visual no terminal com tabulação (`\t`)
@@ -30,8 +29,6 @@ Este projeto também representa boas práticas de organização e modularizaçã
   - Número máximo de saques diários
   - Verificação de saldo disponível
 - 📄 **Extrato** de todas as operações com data e hora.
-- 🔁 **Redefinir contador de saques diários**
-- ⚙️ **Alterar limite de valor de saque**
 - ❌ **Encerrar o programa com segurança**
 
 ---
